@@ -1,0 +1,135 @@
+Turing Student Application Process - Top Down Design
+1 Log in with Facebook or Github account
+  1.1 Click on appropriate log in button
+  1.2 Log in using appropriate credentials
+2 Fill out basic identity and contact information section
+  2.1 Input your name
+  2.2 Input your phone number
+  2.3 Input your email address
+3 Fill out work history section
+  2.1 Upload your most current resume
+  2.1 Submit work history for your current or most recent job
+    2.2 Submit work history for the job before last
+    2.3 Submit academic history
+4 Fill out logic quiz
+  4.1 Solve first question
+    4.1.1 Read through problem
+      4.1.1.1 Take notes
+      4.1.1.2 Read through answers
+      4.1.1.3 Eliminate any obvious incorrect answers
+    4.1.2 Try out remaining answer to see if incorrect
+    4.1.3 Repeat until correct answer found
+  4.2 Solve second question
+    4.2.1 Read through problem
+        4.2.1.1 Take notes
+        4.2.1.2 Read through answers
+        4.2.1.3 Eliminate any obvious incorrect answers
+      4.2.2 Try out remaining answer to see if incorrect
+      4.2.3 Repeat until correct answer found
+  4.3 Solve third questions
+    4.3.1 Read through problem
+      4.3.1.1 Take notes
+      4.3.1.2 Read through answers
+      4.3.1.3 Eliminate any obvious incorrect answers
+    4.3.2 Try out remaining answer to see if incorrect
+    4.3.3 Repeat until correct answer found
+  4.4 Solve fourth question
+    4.4.1 Read through problem
+      4.4.1.1 Take notes
+      4.4.1.2 Read through answers
+      4.4.1.3 Eliminate any obvious incorrect answers
+    4.4.2 Try out remaining answer to see if incorrect
+    4.4.3 Repeat until correct answer found
+  4.5 Solve fifth question
+    4.5.1 Read through problem
+      4.5.1.1 Take notes
+      4.5.1.2 Read through answers
+      4.5.1.3 Eliminate any obvious incorrect answers
+    4.5.2 Try out remaining answer to see if incorrect
+    4.5.3 Repeat until correct answer found
+  4.6 Solve sixth question
+    4.6.1 Read through problem
+      4.6.1.1 Take notes
+      4.6.1.2 Read through answers
+      4.6.1.3 Eliminate any obvious incorrect answers
+    4.6.2 Try out remaining answer to see if incorrect
+    4.6.3 Repeat until correct answer found
+  4.7 Solve seventh question
+    4.7.1 Read through problem
+      4.7.1.1 Take notes
+      4.7.1.2 Read through answers
+      4.7.1.3 Eliminate any obvious incorrect answers
+    4.7.2 Try out remaining answer to see if incorrect
+    4.7.3 Repeat until correct answer found
+  4.8 Solve eighth question
+    4.8.1 Read through problem
+      4.8.1.1 Take notes
+      4.8.1.2 Read through answers
+      4.8.1.3 Eliminate any obvious incorrect answers
+    4.8.2 Try out remaining answer to see if incorrect
+    4.8.3 Repeat until correct answer found
+5 Go to admission interview
+  5.1 Receive notification email
+    5.1.1 Read notification email
+  5.2 Schedule admission interview
+    5.2.1 Select in-person or online
+    5.2.2 Select appropriate date and time
+  5.3 Attend admission interview
+    5.3.1 Work through logic puzzles with Turing staff member
+      5.3.1.1 Read through first multiple- choice question
+        5.3.1.1.1 Take notes
+        5.3.1.1.2 Read through multiple choice answers
+        5.3.1.1.3 Eliminate any obvious incorrect answers
+        5.3.1.1.4 Try out one of the remaining solutions
+          5.3.1.1.4.1 Talk through problem solving process
+          5.3.1.1.4.2 Repeat until correct answer is found
+        5.4.1.1.5 Select correct answer and proceed to next question
+      5.3.1.2 Read through second multiple- choice question
+        5.3.1.2.1 Take notes
+        5.3.1.2.2 Read through multiple choice answers
+        5.3.1.2.3 Eliminate any obvious incorrect answers
+        5.3.1.2.4 Try out one of the remaining solutions
+          5.3.1.2.4.1 Talk through problem solving process
+          5.3.1.2.4.2 Repeat until correct answer is found
+        5.4.1.2.5 Select correct answer and proceed to next question
+      5.4.1.3 Read through second multiple- choice question
+          5.4.1.3.1 Take notes
+          5.4.1.3.2 Read through multiple choice answers
+          5.4.1.3.3 Eliminate any obvious incorrect answers
+          5.4.1.3.4 Try out one of the remaining solutions
+            5.4.1.3.4.1 Talk through problem solving process
+            5.4.1.3.4.2 Repeat until correct answer is found
+          5.4.1.3.5 Select correct answer and proceed to next question
+    5.3.2 Answer questions posed by Turing staff member
+      5.3.2.1 Respond to question about work history
+      5.3.2.2 Respond to question about why you want to enroll
+      5.3.2.3 Respond to question about your problem-solving skills
+      5.3.2.4 Respond to question about managing your time
+      5.3.2.5 Select which program you want to enroll in
+6 Accept admissions
+  6.1 Read acceptance letter
+  6.2 Go to enroll.turing.io
+    6.2.1 Pay deposit by bank transfer
+      6.2.1.1 Wait 5 -7 business days for new Mac
+    6.2.2 Sign enrollment agreement
+      6.2.2.1 Read through enrollment agreement
+      6.2.2.2 Initial on designated initial line
+      6.2.2.3 Sign on designated signature line
+    6.3.3 Fill out survey for Darren
+7 Select Mod 0 dates
+  7.1 Go to Mod 0 enrollment
+    7.1.1 Read through available dates
+    7.1.2 Select dates that work for you
+    7.1.3 Complete Mod 0 pre-setup work
+      7.1.3.1 Go through initial set up for Mac
+      7.1.3.2 Install Atom
+      7.1.3.3 Install Spectacle
+8 Schedule phone call with Darren
+  8.1 Look at available times
+    8.1.1 Select appropriate date and time
+    8.1.2 Select phone call or Skype call
+  8.2 Go over survey responses
+  8.3 Go over planned budgeting
+  8.4 Go over finance options
+9 Attend Mod 0 classes
+10 Complete appropriate capstone project
