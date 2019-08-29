@@ -10,6 +10,6 @@ directDeposit (boolean)
 
 
 goHome(employee returns to their home address): location = homeAddress
-getPromoted (employee changes role at restaurant): positionName = "supervisor"
+getPromoted (employee changes role at restaurant): positionName = "Lead" + "positionName"
 earnRaise (employee's wage increases): hourlyWage + (hourlyWage * .06)
 setupDirectDeposit (employee enrolls in direct deposit for paycheck): directDeposit true
