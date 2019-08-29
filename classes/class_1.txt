@@ -1,0 +1,15 @@
+Employees
+
+name (string)
+positionName (string)
+hourlyWage (float)
+dailyHoursWorked (float)
+homeAddress (string)
+location (string)
+directDeposit (boolean)
+
+
+goHome(employee returns to their home address): location = homeAddress
+getPromoted (employee changes role at restaurant): positionName = "supervisor"
+earnRaise (employee's wage increases): hourlyWage + (hourlyWage * .06)
+setupDirectDeposit (employee enrolls in direct deposit for paycheck): directDeposit true
