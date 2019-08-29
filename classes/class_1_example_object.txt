@@ -1,0 +1,14 @@
+Employee 8
+name: "Nancy Smith"
+positionName: "Sommelier"
+hourlyWage 15.14
+dailyHoursWorked 8.00
+homeAddress: "477 Cedar Place, Capital City, CO 80123"
+location: "Winery"
+directDeposit No
+
+
+goHome(employee returns to their home address): location = "477 Cedar Place, Capital City, CO 80123"
+getPromoted (employee changes role at restaurant): positionName = "Lead Sommelier"
+earnRaise (employee's wage increases): hourlyWage 16.05
+setupDirectDeposit (employee enrolls in direct deposit for paycheck): directDeposit true
