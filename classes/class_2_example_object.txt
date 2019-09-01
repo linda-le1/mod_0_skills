@@ -1,0 +1,14 @@
+Table 19
+
+tableNumber: 19
+numberOfSeats 6
+numberofTables 1
+serverAssigned: "null"
+location: "Southwest corner"
+numberofMaxGuests 6
+Available True
+
+getSeated (assigns server to table): serverAssigned: "John Smith"
+currentVacancy (notes if table is available or not): Available false
+moveForLargeParty: location = "private dining room"
+reservedTonight: Available false
